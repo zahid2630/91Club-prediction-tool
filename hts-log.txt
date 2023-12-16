@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 16 Dec 2023 11:55:07 at https://91club.co.in http://9682633842:Zahidch2630%40@91club.co.in +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://91club.co.in http://9682633842:Zahidch2630%40@91club.co.in -O1 "C:\My Web Sites\https___91club.co.in" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:56:32	Error: 	"Method Not Allowed" (405) at link https://91club.co.in/xmlrpc.php (from https://91club.co.in/)
+11:59:13	Error: 	"Not Found" (404) at link https://91club.co.in/GET (from https://91club.co.in/)
+12:11:09	Warning: 	Moved Permanently for https://91club.co.in/?p=247
+12:11:09	Warning: 	File has moved from https://91club.co.in/?p=247 to https://91club.co.in/91-club-gift-code/
+12:11:21	Warning: 	Link https://91club.co.in/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:17:00	Warning: 	Moved Permanently for https://91club.co.in/?p=224
+12:17:00	Warning: 	File has moved from https://91club.co.in/?p=224 to https://91club.co.in/91-club-app-earning/
+12:17:00	Warning: 	Moved Permanently for https://91club.co.in/?p=110
+12:17:00	Warning: 	File has moved from https://91club.co.in/?p=110 to https://91club.co.in/contactus/
+12:17:00	Warning: 	Moved Permanently for https://91club.co.in/?p=264
+12:17:00	Warning: 	File has moved from https://91club.co.in/?p=264 to https://91club.co.in/aboutus/
+12:17:00	Warning: 	Moved Permanently for https://91club.co.in/?p=127
+12:17:00	Warning: 	File has moved from https://91club.co.in/?p=127 to https://91club.co.in/privacy/
+12:17:01	Warning: 	Moved Permanently for https://91club.co.in/?p=130
+12:17:01	Warning: 	File has moved from https://91club.co.in/?p=130 to https://91club.co.in/terms-and-conditions/
+12:17:07	Warning: 	Moved Permanently for https://91club.co.in/?p=293
+12:17:07	Warning: 	File has moved from https://91club.co.in/?p=293 to https://91club.co.in/top-game-app-earning/
+12:18:32	Error: 	"Not Found" (404) at link https://91club.co.in/91-club-gift-code/Trident/ (from https://91club.co.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.0)
+12:18:32	Error: 	"Not Found" (404) at link https://91club.co.in/91-club-gift-code/Edge/ (from https://91club.co.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.0)
+12:18:32	Error: 	"Not Found" (404) at link https://91club.co.in/91-club-gift-code/Gecko/ (from https://91club.co.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.0)
+12:18:32	Error: 	"Not Found" (404) at link https://91club.co.in/91-club-gift-code/Firefox/ (from https://91club.co.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.0)
+12:18:32	Error: 	"Not Found" (404) at link https://91club.co.in/91-club-gift-code/Version/ (from https://91club.co.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.0)
+12:18:32	Error: 	"Not Found" (404) at link https://91club.co.in/91-club-gift-code/version/ (from https://91club.co.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 minutes 25 seconds : 139 links scanned, 123 files written (5353114 bytes overall), 41 files updated [634101 bytes received at 451 bytes/sec], 1523869 bytes transferred using HTTP compression in 50 files, ratio 21%, 2.0 requests per connection
+(8 errors, 15 warnings, 0 messages)
